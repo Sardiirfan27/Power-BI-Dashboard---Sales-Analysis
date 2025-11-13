@@ -2,7 +2,8 @@
 
 Proyek ini merupakan proyek untuk pelatihan membuat **dashboard interaktif untuk memantau dan menganalisis performa penjualan hingga proses pengiriman**, dirancang untuk membantu tim bisnis dan manajemen dalam pengambilan keputusan berbasis data. Dashboard ini dibuat dengan beberapa halaman utama, masing-masing menyoroti aspek tertentu dari performa penjualan.
 
-[![Watch the demo](https://img.youtube.com/vi/rVjrxNV_qKc/0.jpg)](https://www.youtube.com/watch?v=rVjrxNV_qKc)
+Tonton demo dashboard di YouTube: [Sales Dashboard Demo](https://www.youtube.com/watch?v=rVjrxNV_qKc)
+
 
 
 ## Halaman Dashboard
